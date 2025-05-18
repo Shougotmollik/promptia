@@ -1,0 +1,2 @@
+D:/prompita/android/app/.cxx/Debug/2f132u1i/x86_64/CMakeFiles/edit_cache.dir
+D:/prompita/android/app/.cxx/Debug/2f132u1i/x86_64/CMakeFiles/rebuild_cache.dir

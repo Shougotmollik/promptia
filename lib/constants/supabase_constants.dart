@@ -1,0 +1,3 @@
+const String supabaseURL = 'https://dbopnqvyxchndgoounoz.supabase.co';
+const String supabaseKEY =
+    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRib3BucXZ5eGNobmRnb291bm96Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDYwNDA2NDIsImV4cCI6MjA2MTYxNjY0Mn0.EB-us2TQzFH6GDV_pW8FufX6Drxys-T91LT7KnjpY_s';
